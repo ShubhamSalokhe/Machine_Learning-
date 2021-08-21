@@ -1,4 +1,4 @@
 # Machine_Learning-
-It is the submission of Machine Learning course 
-Stanford University (andrew ng)
-Matlab/Octave 
+<br>It is the submission of Machine Learning course 
+<br>Stanford University (andrew ng)
+<br>Matlab/Octave 
